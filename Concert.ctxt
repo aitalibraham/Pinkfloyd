@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Concert
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Concert\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=Concert()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Concert\r\n
+comment2.params=membre
+comment2.target=void\ addMember(Pinkfloyd)
+comment3.params=
+comment3.target=int\ getAverageAge()
+numComments=4
